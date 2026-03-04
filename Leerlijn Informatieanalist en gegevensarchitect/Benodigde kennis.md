@@ -2,7 +2,7 @@
 
 ## Technische kennis
 
-| Kennis | Noodzakelijk korte termijn | Noodzakelijk langere termijn | Handig |
+| Kennis | Noodzakelijk kortere termijn | Noodzakelijk langere termijn | Handig |
 | --- | --- | --- | --- |
 | XML | x | - | - |
 | XML-Schema | x | - | - |
@@ -20,7 +20,7 @@
 | RGBZ | x | - | - |
 | StUF-ZKN (3.10) | x | - | - |
 | Im-ZTC | x | - | - |
-| StUF-ZTC | x | - | - |
+| StUF-ZTC (3.10) | x | - | - |
 | API-designprincipes en best practices | - | x | - |
 | Begrip van verschillende API-types, zoals REST, RPC en GraphQL | - | x | - |
 | Json | - | x | - |
@@ -29,7 +29,7 @@
 
 ## Tooling
 
-| Kennis | Noodzakelijk korte termijn | Noodzakelijk langere termijn | Handig |
+| Kennis | Noodzakelijk kortere termijn | Noodzakelijk langere termijn | Handig |
 | --- | --- | --- | --- |
 | StUFmaster en subversion | x | - | - |
 | XML-Spy | x | - | - |

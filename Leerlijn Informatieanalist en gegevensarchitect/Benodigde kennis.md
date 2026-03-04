@@ -1,7 +1,7 @@
 # Benodigde kennis Leerlijn Informatieanalist en gegevensarchitect
 
 | Kennis | Noodzakelijk | Handig |
-| --- | --- |
+| --- | --- | --- |
 | XML | x | - |
 | XML-Schema | x | - |
 | Xslt | - | x |

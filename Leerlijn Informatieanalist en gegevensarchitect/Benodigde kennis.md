@@ -10,8 +10,6 @@
 | Gemeentelijk ICT landschap en de rol van StUF | x | - | - | - |
 | GEMMA | x | - | - | - |
 | StUF (3.01 en 2.04) | x | - | - | - |
-| UML (Class diagrammen) | - | x | - | - |
-| UML (andere diagrammen) | - | - | - | x |
 | Conceptuele en logische informatiemodellen zoals gedefinieerd in MIM | x | - | - | - |
 | RSGB | x | - | - | - |
 | StUF-BG (3.10 en 2.04) | x | - | - | - |
@@ -21,6 +19,8 @@
 | StUF-ZTC (3.10) | x | - | - | - |
 | WSDL | - | x | - | - |
 | StUF bindingen | - | x | - | - |
+| UML (Class diagrammen) | - | x | - | - |
+| UML (andere diagrammen) | - | - | - | x |
 | API-designprincipes en best practices | - | - | x | - |
 | Begrip van verschillende API-types, zoals REST, RPC en GraphQL | - | - | x | - |
 | Json | - | - | x | - |

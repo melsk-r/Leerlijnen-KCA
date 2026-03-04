@@ -2,41 +2,41 @@
 
 ## Technische kennis
 
-| Kennis | Noodzakelijk kortere termijn | Noodzakelijk middellange termijn | Noodzakelijk langere termijn | Handig |
-| --- | --- | --- | --- | --- |
-| XML | x | - | - | - |
-| XML-Schema | x | - | - | - |
-| Xslt | - | - | - | x |
-| Gemeentelijk ICT landschap en de rol van StUF | x | - | - | - |
-| GEMMA | x | - | - | - |
-| StUF (3.01 en 2.04) | x | - | - | - |
-| Conceptuele en logische informatiemodellen zoals gedefinieerd in MIM | x | - | - | - |
-| RSGB | x | - | - | - |
-| StUF-BG (3.10 en 2.04) | x | - | - | - |
-| RGBZ | x | - | - | - |
-| StUF-ZKN (3.10) | x | - | - | - |
-| Im-ZTC | x | - | - | - |
-| StUF-ZTC (3.10) | x | - | - | - |
-| WSDL | - | x | - | - |
-| StUF bindingen | - | x | - | - |
-| UML (Class diagrammen) | - | x | - | - |
-| UML (andere diagrammen) | - | - | - | x |
-| API-designprincipes en best practices | - | - | x | - |
-| Begrip van verschillende API-types, zoals REST, RPC en GraphQL | - | - | x | - |
-| Json | - | - | x | - |
-| Json-schema | - |  - |x | - |
-| Yaml | - | - | x | - |
+| Kennis | Noodzakelijk kortere termijn | Noodzakelijk middellange termijn | Noodzakelijk langere termijn | Handig || Opleider |
+| --- | --- | --- | --- | --- | --- | --- |
+| XML | x | - | - | - | | KCA |
+| XML-Schema | x | - | - | - | | KCA |
+| Xslt | - | - | - | x | | KCA |
+| Gemeentelijk ICT landschap en de rol van StUF | x | - | - | - | | KCA |
+| GEMMA | x | - | - | - | | KCA |
+| StUF (3.01 en 2.04) | x | - | - | - | | KCA |
+| Conceptuele en logische informatiemodellen zoals gedefinieerd in MIM | x | - | - | - | | KCA |
+| RSGB | x | - | - | - | | KCA |
+| StUF-BG (3.10 en 2.04) | x | - | - | - | | KCA |
+| RGBZ | x | - | - | - | | KCA |
+| StUF-ZKN (3.10) | x | - | - | - | | KCA |
+| Im-ZTC | x | - | - | - | | KCA |
+| StUF-ZTC (3.10) | x | - | - | - | | KCA |
+| WSDL | - | x | - | - | | KCA |
+| StUF bindingen | - | x | - | - | | KCA |
+| UML (Class diagrammen) | - | x | - | - | | ? |
+| UML (andere diagrammen) | - | - | - | x | | ? |
+| API-designprincipes en best practices | - | - | x | - | | KCA |
+| Begrip van verschillende API-types, zoals REST, RPC en GraphQL | - | - | x | - | | ? |
+| Json | - | - | x | - | | ? |
+| Json-schema | - |  - |x | - | | ? |
+| Yaml | - | - | x | - | | ? |
 
 ## Tooling
 
-| Kennis | Noodzakelijk kortere termijn | Noodzakelijk middellange termijn | Noodzakelijk langere termijn | Handig |
-| --- | --- | --- | --- | --- |
-| XML-Spy | x | - | - | - |
-| Subversion en StUFmaster | x | - | - | - |
-| Git en GitHub | - | x | - | - |
-| GitHub Pages | - | x | - | - |
-| Enterprise Architect | - | - | x | - |
-| Imvertor | - | - | x | - |
+| Kennis | Noodzakelijk kortere termijn | Noodzakelijk middellange termijn | Noodzakelijk langere termijn | Handig || Opleider |
+| --- | --- | --- | --- | --- | --- | --- |
+| XML-Spy | x | - | - | - | | KCA |
+| Subversion en StUFmaster | x | - | - | - | | KCA |
+| Git en GitHub | - | x | - | - | | KCA |
+| GitHub Pages | - | x | - | - | | KCA |
+| Enterprise Architect | - | - | x | - | | ? |
+| Imvertor | - | - | x | - | | KCA |
 
 ## In de vacature gevraagde kennis
 * Begrip van XML-schemavalidatie en gerelateerde technologieën;

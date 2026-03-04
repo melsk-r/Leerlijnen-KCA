@@ -33,10 +33,12 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | XML-Spy | x | - | - | - | | KCA |
 | Subversion en StUFmaster | x | - | - | - | | KCA |
+| StUF Testplatform | - | x | - | - | | KCA |
 | Git en GitHub | - | x | - | - | | KCA |
 | GitHub Pages | - | x | - | - | | KCA |
 | Enterprise Architect | - | - | x | - | | ? |
 | Imvertor | - | - | x | - | | KCA |
+| Postman | - | - | x | - | | ? |
 
 ## In de vacature gevraagde kennis
 * Begrip van XML-schemavalidatie en gerelateerde technologieën;

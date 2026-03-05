@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="leerlijnen-container">
+
+  <div class="leerlijnen-grid">
+    {{ with .Site.GetPage "leerlijnen" }}
+    {{ range .Pages }}
+    {{ if .Params.leerlijn_nummer }}
+    <a href="{{ .Permalink }}" class="leerlijn-card">
+      <div class="leerlijn-nummer">{{ .Params.leerlijn_nummer }}</div>
+      <div class="leerlijn-icon">{{ .Params.icon | default "📘" }}</div>
+      <h3>{{ .Title }}</h3>
+      <p class="leerlijn-beschrijving">{{ .Params.beschrijving }}</p>
+      <div class="leerlijn-meta">
+        <span class="leerlijn-onderdelen">{{ .Params.aantal_onderdelen }} onderdelen</span>
+      </div>
+    </a>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,51 @@
+baseURL = "https://johan.github.io/Leerlijnen-KCA/"
+languageCode = "nl"
+title = "Leerlijnen KCA"
+theme = "PaperMod"
+
+[params]
+  description = "Leerlijnen voor de Informatieanalist en Gegevensarchitect – Van XML tot StUF en verder"
+  ShowBreadCrumbs = true
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+  [params.homeInfoParams]
+    Title = "Leerlijnen KCA"
+    Content = "Leerlijnen voor de Informatieanalist en Gegevensarchitect bij VNG Realisatie"
+
+  [params.cover]
+    image = "images/vng-nassaulaan.jpg"
+    alt = "VNG gebouw aan de Nassaulaan in Den Haag"
+    responsiveImages = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[permalinks]
+  [permalinks.page]
+    leerlijnen = "/:slug/"
+  [permalinks.section]
+    leerlijnen = "/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Archief"
+    url = "/archief/"
+    weight = 3
+  [[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/johan/Leerlijnen-KCA"
+    weight = 10

@@ -1,7 +1,7 @@
 ---
 title: "2.2 Relatie StUF, RSGB en GEMMA-standaarden"
 date: 2026-03-04
-weight: 2
+weight: 3
 leerlijn: 2
 paragraaf: "2.2"
 leerdoel: "Leerdoel nog toe te voegen"

@@ -1,7 +1,7 @@
 ---
 title: "2.1 GEMMA Referentie-architectuur"
 date: 2026-03-04
-weight: 1
+weight: 2
 leerlijn: 2
 paragraaf: "2.1"
 leerdoel: "Leerdoel nog toe te voegen"

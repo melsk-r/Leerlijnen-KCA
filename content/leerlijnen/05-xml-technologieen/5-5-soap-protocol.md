@@ -1,7 +1,7 @@
 ---
 title: "5.5 SOAP-protocol"
 date: 2026-03-04
-weight: 5
+weight: 6
 leerlijn: 5
 paragraaf: "5.5"
 leerdoel: "Leerdoel nog toe te voegen"

@@ -8,10 +8,6 @@ beschrijving: "Begrijp het gemeentelijke ICT-landschap en de rol van StUF en geg
 aantal_onderdelen: 6
 ---
 
-<div class="back-link-wrapper">
-  <a href="/" class="back-link">Terug naar alle leerlijnen</a>
-</div>
-
 <div class="leerlijn-header">
   <span class="nummer-badge">Leerlijn 1</span>
   <h1>Gemeentelijk ICT-landschap</h1>

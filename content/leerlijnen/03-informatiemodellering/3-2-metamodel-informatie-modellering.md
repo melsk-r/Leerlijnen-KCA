@@ -1,7 +1,7 @@
 ---
 title: "3.2 Metamodel Informatie Modellering (MIM)"
 date: 2026-03-04
-weight: 2
+weight: 3
 leerlijn: 3
 paragraaf: "3.2"
 leerdoel: "Leerdoel nog toe te voegen"

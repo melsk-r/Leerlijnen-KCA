@@ -1,8 +1,8 @@
 ---
 title: "Documenteren en publiceren"
 date: 2026-03-04
-weight: 10
-leerlijn_nummer: 10
+weight: 9
+leerlijn_nummer: 9
 icon: "📝"
 beschrijving: "Processen, procedures en technische specificaties documenteren en publiceren."
 aantal_onderdelen: 4
@@ -13,7 +13,7 @@ aantal_onderdelen: 4
 </div>
 
 <div class="leerlijn-header">
-  <span class="nummer-badge">Leerlijn 10</span>
+  <span class="nummer-badge">Leerlijn 9</span>
   <h1>Documenteren en publiceren</h1>
   <p class="hoofdleerdoel">De kandidaat kan processen, procedures en technische specificaties documenteren en publiceren.</p>
 </div>

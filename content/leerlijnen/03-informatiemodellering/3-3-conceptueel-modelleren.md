@@ -1,7 +1,7 @@
 ---
 title: "3.3 Conceptueel modelleren (MIM niveau 2)"
 date: 2026-03-04
-weight: 3
+weight: 4
 leerlijn: 3
 paragraaf: "3.3"
 leerdoel: "Leerdoel nog toe te voegen"

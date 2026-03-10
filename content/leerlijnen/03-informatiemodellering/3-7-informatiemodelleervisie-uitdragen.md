@@ -1,7 +1,7 @@
 ---
 title: "3.7 Informatiemodelleervisie uitdragen"
 date: 2026-03-04
-weight: 7
+weight: 8
 leerlijn: 3
 paragraaf: "3.7"
 leerdoel: "Leerdoel nog toe te voegen"

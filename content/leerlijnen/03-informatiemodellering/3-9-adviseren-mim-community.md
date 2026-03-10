@@ -1,7 +1,7 @@
 ---
 title: "3.9 Adviseren aan MIM-community"
 date: 2026-03-04
-weight: 9
+weight: 10
 leerlijn: 3
 paragraaf: "3.9"
 leerdoel: "Leerdoel nog toe te voegen"

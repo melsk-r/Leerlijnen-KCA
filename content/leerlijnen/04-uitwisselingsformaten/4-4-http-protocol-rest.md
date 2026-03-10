@@ -1,7 +1,7 @@
 ---
 title: "4.4 HTTP-protocol voor REST-API's"
 date: 2026-03-04
-weight: 4
+weight: 5
 leerlijn: 4
 paragraaf: "4.4"
 leerdoel: "Leerdoel nog toe te voegen"

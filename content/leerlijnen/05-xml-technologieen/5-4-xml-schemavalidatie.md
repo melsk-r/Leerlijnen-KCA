@@ -1,7 +1,7 @@
 ---
 title: "5.4 XML-schemavalidatie"
 date: 2026-03-04
-weight: 4
+weight: 5
 leerlijn: 5
 paragraaf: "5.4"
 leerdoel: "Leerdoel nog toe te voegen"

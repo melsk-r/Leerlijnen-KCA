@@ -1,7 +1,7 @@
 ---
 title: "2.3 Bijdragen aan GEMMA"
 date: 2026-03-04
-weight: 3
+weight: 4
 leerlijn: 2
 paragraaf: "2.3"
 leerdoel: "Leerdoel nog toe te voegen"

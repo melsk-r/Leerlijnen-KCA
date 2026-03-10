@@ -1,7 +1,7 @@
 ---
 title: "4.1 XML als uitwisselingsformaat"
 date: 2026-03-04
-weight: 1
+weight: 2
 leerlijn: 4
 paragraaf: "4.1"
 leerdoel: "Leerdoel nog toe te voegen"

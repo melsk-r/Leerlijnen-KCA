@@ -1,0 +1,44 @@
+Voorbeeld van een wijziging in informatiemodel.
+
+Voorbeeld is het toevoegen van een tijdelijk verblijfadres aan het RSGB (Zie https://github.com/VNG-Realisatie/Actualisering-RSGB/issues/55 )
+
+Actiestappen :
+
+Uitleg hoe het issue is "ontdekt" of tot stand is gekomen.
+	- BV. Wetswijziging heeft tot wijziging LO-BRP geleid. 
+	- Of Functionele wens in de gemeente is ontstaan om dit toch op te nemen. 
+
+Uitleg bepreken in "expertgroep" en tot besluitvorming komen. 
+	- Varianten in modellering tonen. 
+	- Keuze voor een variant maken op basis van argumenten. 
+
+Intern werk: 
+	- Aanpassen in informatiemodel
+	- Aanpassing documenteren in PDF's --> is oude aanpak Wens is documenteren in Respec. 
+	- Maken van een releasenotes.
+
+Uitvoeren publieke consultatie.
+
+	- Consultatie uitzetten
+	- Reacties inventariseren + impact van reacties op gemaakte keuzes in beeld brengen
+	- Resultaten publieke consultatie in "expertgroep" bespreken en tot besluitvorming komen.
+	- Bepalen of er een 2e ronde publieke consultatie nodig is.  
+
+	- Publiceren informatiemodel inclusief respec / pdf's en releasenotes.
+
+
+Stuf Aspecten
+
+	- Er wordt één (of meerdere) issues aangemaakt in de github repository (https://github.com/VNG-Realisatie/StUF-Standaarden/issues )
+	- Onderhoudsverzoek word aangemaakt in de lijst met onderhoudsverzoeken. --> dit doe je om voor 1 specifieke patch alle relevante issues te verzamelen en op basis daarvan releasenotes te maken. 
+	- Implementatie-overweging per issue uitwerken en opnemen in de betreffende issue. (Dit voorstel kan ook door community-leden worden aangedragen) 
+	- Community over uitwerking informeren en vragen om reactie. 
+	- Bij geen reactie of collectie ok --> Pre-patch maken
+		○ Schema's (XSD) aanpassen
+		○ Documentatie aanpassen (Verstuffingsdocument, StUF standaard, protocol-binding, Lijst extraelementen etc….
+		○ Releasenotes aanpassen 
+	- Prepatch publiceren en daarmee een openbare consultatie starten (via mail + patch-bestanden)
+	- Eventuele reacties verwerken / bespreken.
+	- Bovenstaande kan in 1 of meer iteraties plaatsvinden.
+	- Patch wordt compleet uitgewerkt (dus ook impact op gerelateerde StUF standaarden) en uitgebracht. 
+Issues "closen"

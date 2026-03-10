@@ -1,4 +1,4 @@
-baseURL = "https://johan.github.io/Leerlijnen-KCA/"
+baseURL = "https://VNG-Realisatie.github.io/Leerlijnen-KCA/"
 languageCode = "nl"
 title = "Leerlijnen KCA"
 theme = "PaperMod"
@@ -52,5 +52,5 @@ theme = "PaperMod"
     weight = 3
   [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/johan/Leerlijnen-KCA"
+    url = "https://github.com/VNG-Realisatie/Leerlijnen-KCA"
     weight = 10

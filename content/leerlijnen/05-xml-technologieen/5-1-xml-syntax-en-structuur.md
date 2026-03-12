@@ -27,7 +27,7 @@ Maar dit levert direct problemen op:
 - Hoe weet het ontvangende systeem welk veld wat is?
 - Wat als er een komma in een adres staat?
 
-In het verleden werd dit probleem opgelost door specifiek voor deze situatie software te schrijven die dit oploste. Als systeem A vervolgens dezelfde gegevens ook moest uitwisselen met nog een ander systeem (C) werd weer een oplossing gecodeerd. Je kunt je voorstellen dat er na verloop van tijd een kluwen van verbindingen was gelegd om gegevens uit te wisselen. In de praktijk wordt dit vaak het **"spaghetti-probleem"** genoemd: wanneer *N* systemen met *M* andere systemen gegevens moeten uitwisselen, zijn er tot N×M koppelvlakken nodig — elk met een eigen formaat. Dit leidt tot onbeheersbare "copy-paste"-integraties. De oplossing: één gemeenschappelijke taal voor gegevensuitwisseling.
+In het verleden werd dit probleem opgelost door specifiek voor deze situatie software te schrijven. Als systeem A vervolgens dezelfde gegevens ook moest uitwisselen met nog een ander systeem (C) werd weer nieuwe code geschreven. Je kunt je voorstellen dat er na verloop van tijd een kluwen van verbindingen was gelegd om gegevens uit te wisselen. In de praktijk wordt dit vaak het **"spaghetti-probleem"** genoemd: wanneer *N* systemen met *M* andere systemen gegevens moeten uitwisselen, zijn er tot N×M koppelvlakken nodig — elk met een eigen formaat. Dit leidt tot onbeheersbare "copy-paste"-integraties. De oplossing: één gemeenschappelijke taal voor gegevensuitwisseling.
 
 Er is dus een manier nodig om gegevens **gestructureerd** vast te leggen, zodat zowel mensen als computers ondubbelzinnig kunnen begrijpen wat elk gegeven betekent.
 

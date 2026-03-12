@@ -1,6 +1,6 @@
 ---
 title: "5.1 XML syntax en structuur"
-date: 2026-03-04
+date: 2026-03-12
 weight: 2
 leerlijn: 5
 paragraaf: "5.1"

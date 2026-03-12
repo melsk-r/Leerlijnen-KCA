@@ -236,7 +236,7 @@ Merk op hoe de attributen hier meerdere rollen vervullen:
 
 | | HTML | XML |
 |---|---|---|
-| **Doel** | Beschrijven hoe tekst *gepresenteerd* moet worden (presentatie). | Beschrijven wat gegevens *betekenen* (data). |
+| **Doel** | Beschrijven hoe tekst *gerepresenteerd* moet worden (presentatie). | Beschrijven wat gegevens *betekenen* (data). |
 | **Tagnamen** | Vast: `<h1>`, `<p>`, `<div>`, etc. | Vrij te kiezen: `<inwoner>`, `<postcode>`, etc. |
 | **Strengheid** | Vergevingsgezind: een browser probeert fouten te repareren. | Streng: bij een fout stopt de verwerking. |
 | **Oorsprong** | SGML-vereenvoudiging voor het web (1992). | SGML-vereenvoudiging voor gegevensuitwisseling (1997). |

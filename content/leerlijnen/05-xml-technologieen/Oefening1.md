@@ -4,7 +4,6 @@ date: 2026-03-13
 weight: 3
 leerlijn: 5
 paragraaf: "5.1.1"
-leerdoel: "Leerdoel nog toe te voegen"
 ---
 
 ## Oefening 1: Visitekaartje

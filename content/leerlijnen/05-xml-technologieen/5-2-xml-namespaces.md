@@ -72,7 +72,7 @@ Dit lost het probleem dus nog niet op want in feite is er in dit fragment sprake
 * weerkunde
 * staatsrechtelijk
 
-We moeten dus nog enkele namespaces declareren. Laten we het voorbeeld uitbreiden:
+We moeten dus nog enkele namespaces declareren. Laten we het voorbeeld daarom uitbreiden:
 
 ```xml
 <gebeurtenis xmlns="http://www.gebeurtenissen.nl"
@@ -114,7 +114,8 @@ in het fragment zelf kunnen we vervolgens de elementen aan de namespaces koppele
 </gbrt:gebeurtenis>
 ```
 
-Het is zelfs mogelijk om een van die namespaces als default namespace aan te wijzen. Dat gebeurd door voor die namespace geen alias te definiëren en de elementen in die namespace dan ook geen prefix te geven. Het fragment ziet er dan als volgt uit:
+Nu is duidelijk in welk kader elk element geïnterpreteerd moet worden.
+Het is ook mogelijk om één van die namespaces als default namespace aan te wijzen waardoor de aan de elementen in die namespace geen prefix hoeft te worden toegekens. Dat gebeurd door voor die namespace geen alias te definiëren. Het fragment ziet er dan als volgt uit:
 
 ```xml
 <gebeurtenis xmlns="http://www.gebeurtenissen.nl"

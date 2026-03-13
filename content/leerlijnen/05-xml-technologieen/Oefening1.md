@@ -4,6 +4,7 @@ date: 2026-03-13
 weight: 3
 leerlijn: 5
 paragraaf: "5.1.1"
+leerdoel: "Oefen de creatie van een XML bestand, het op basis van een schema toevoegen van elementen en het creëren van een Well-formed XML bestand."
 ---
 
 ## Oefening 1: Visitekaartje

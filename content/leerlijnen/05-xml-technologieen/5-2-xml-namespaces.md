@@ -1,7 +1,7 @@
 ---
 title: "5.2 XML-namespaces"
 date: 2026-03-12
-weight: 3
+weight: 4
 leerlijn: 5
 paragraaf: "5.2"
 leerdoel: "Leerdoel nog toe te voegen"

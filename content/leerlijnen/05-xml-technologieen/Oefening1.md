@@ -27,11 +27,11 @@ gebruiken om een XML-bestand te creëren.
 * XMLSPY heeft nu voor je een XML-bestand aangemaakt met de minimaal benodigde set elementen en deze geopend in “Text view”. 
 Alle verplichte elementen zijn aanwezig. Zij bevatten alleen nog geen inhoud.<br>Voorzie de elementen van inhoud en kijk of 
 je ook nog enkele niet verplichte elementen aan het bestand kunt toevoegen.<br>Valideer daarvoor regelmatig het bestand en 
-corrigeer indien nodig de fouten door te klikken op het groene <img width="22" alt="Validate" src="/Leerlijnen-KCA/images/validate.jpg" /> 
+corrigeer indien nodig de fouten door te klikken op het groene <img width="22" style="float: left; margin-right: 10px; width: 100px; height: auto;" alt="Validate" src="/Leerlijnen-KCA/images/validate.jpg" /> 
 icoontje. Je kunt ook valideren via het menu “XML – Validate” of m.b.v. “F8”.<br>Eventueel kunt je via “DTD\Schema – Go to 
 Schema” de mogelijke structuur bekijken;
 * Bewaar het bestand als “....\XML\oefeningen\oefening\Visitekaartje.xml”;
 * Voeg aan het bestand nog ergens de elementen “Unit” en “Pager” toe en wel zodanig dat het bestand well-formed
-blijft. Je kunt dit checken door te klikken op het gele <img width="22" alt="Validate" src="/Leerlijnen-KCA/images/check-wellformed.jpg" /> 
+blijft. Je kunt dit checken door te klikken op het gele <img width="22" style="float: left; margin-right: 10px; width: 100px; height: auto;" alt="Validate" src="/Leerlijnen-KCA/images/check-wellformed.jpg" /> 
 icoontje, via het menu “XML – Check well-formedness” of m.b.v. “F7”;
 * Bewaar het bestand als “....\XML\oefeningen\oefening\Visitekaartje-wf.xml”.

@@ -9,7 +9,7 @@ oefendoel: "Oefen met het ordenen van een XML bestand in namespaces."
 
 ## Oefening 3: StUF Zaken
 
-Het bedrijf heeft besloten voor specifieke functies ook privé informatie op een visitekaartje toe te staan. Het gaat om het adres, het e-Mailadres, het telefoonnummer en het mobielenummer. Het XML-schema is daartoe aangepast.
+Je krijgt nu een sneak preview in een StUF bericht. Het is een goed voorbeeld van het toepassen van namespaces en we kijken dus nog niet naar de semantiek achter het bericht. 
 
 **Benodigde files**
 * Download [ZakLk01.zip](/Leerlijnen-KCA/bestanden/ZakLk01.zip) en plaats de inhoud (ZakLk01.xml) op een locatie waar jij er makkelijk bij kunt.

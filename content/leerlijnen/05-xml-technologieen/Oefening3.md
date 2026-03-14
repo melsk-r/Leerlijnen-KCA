@@ -13,8 +13,26 @@ Het bedrijf heeft besloten voor specifieke functies ook privé informatie op een
 
 **Benodigde files**
 * Download [ZakLk01.zip](/Leerlijnen-KCA/bestanden/ZakLk01.zip) en plaats de inhoud (ZakLk01.xml) op een locatie waar jij er makkelijk bij kunt.
+* Download [Zkn0310-schema.zip]/Leerlijnen-KCA/bestanden/Zkn0310-schema.zip) en plaats de inhoud (een aantal XML-Schema bestanden) op een locatie waar jij er makkelijk bij kunt.
 
 **Opdracht**
-* Open het bestand 'ZakLk01.xml' met 'Altova XMLSpy 2024 Enterprise XML Editor'.;
-* 
+* Open het bestand 'ZakLk01.xml' met 'Altova XMLSpy 2024 Enterprise XML Editor';
+* Definieer op het root element de namespaces 'http://www.egem.nl/StUF/StUF0301', 'http://www.w3.org/2001/XMLSchema-instance' en 'http://www.egem.nl/StUF/sector/zkn/0310' met een door jezelf gekozen prefix;
+* Ken alle elementen binnen het element 'stuurgegevens' toe aan de eerste namespace;
+* Doe hetzelfde met alle elementen binnen het element 'parameters' en met de elementen 'tijdvakGeldigheid', 'tijdvakRelatie' en alle elementen daarin;
+* Ook het element 'tijdstipRegistratie' behoort tot die namespace;
+* Ken de eerste namespace ook toe aan de volgende attributen in het xml bestand:
+  - 'entiteittype'
+  - 'sleutelVerzendend'
+  - 'verwerkingssoort'
+  - 'noValue'
+* Ken de tweede namespace ook toe aan het attribuut 'nil' in het xml bestand;
+* Ken de derde namespace tenslotte toe aan alle resterende elementen in het xml bestand en dus ook aan de elementen:
+  - 'stuurgegevens'
+  - 'parameters'
+* Check de Wellformedness van het bestand en corrigeer daar waar nodig;
+* Selecteer in het topmenu 'DTD/Schema - Assign Schema' en klik vervolgens op 'Assign Schema/DTD File';
+* Klik vervolgens achter het invoerveld op het map icoontje voor “Browse file” en selecteer het bestand “zkn0310_msg_totaal_resolved2025.xsd” waar je eerder 'Zkn0310-schema.zip' hebt uitgepakt;
+* Klik op “Open” en vervolgens op “OK”;
+* XMLSPY geeft nu aan dat het bestand valide is of geeft een of meer foutmeldingen. Corrigeer indien nodig de foutmeldingen;
 * Bewaar het bestand.

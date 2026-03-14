@@ -17,11 +17,10 @@ Het bedrijf heeft besloten voor specifieke functies ook privé informatie op een
 
 **Opdracht**
 * Open het bestand 'ZakLk01.xml' met 'Altova XMLSpy 2024 Enterprise XML Editor';
-* Definieer op het root element de namespaces
+* Definieer op het root element de volgende namespaces met een door jezelf gekozen prefix:
   1. 'http://www.egem.nl/StUF/StUF0301'
   2. 'http://www.w3.org/2001/XMLSchema-instance'
   3. 'http://www.egem.nl/StUF/sector/zkn/0310' 
-  met een door jezelf gekozen prefix;
 * Ken alle elementen binnen het element 'stuurgegevens' toe aan de eerste namespace;
 * Doe hetzelfde met alle elementen binnen het element 'parameters' en met de elementen 'tijdvakGeldigheid', 'tijdvakRelatie' en alle elementen daarin;
 * Ook het element 'tijdstipRegistratie' behoort tot die namespace;

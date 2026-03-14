@@ -149,3 +149,22 @@ en mogelijk zul je, minder netjes, ook mengvormen tegenkomen zoals:
   </beschrijving>
 </gbrt:gebeurtenis>
 ```
+
+## Attributen en namespaces
+
+Behalve elementen kunnen ook attributen aan een namespace worden toegekend. Daarmee kun je ook op attribuutniveau naamconflicten voorkomen. Het is daarbij heel goed mogelijk om een element aan de ene namespace te koppelen en een attribuut op dat element aan de andere namespace. Een volgende constructie is dus toegestaan:
+
+```xml
+<gbrt:gebeurtenis xmlns:gbrt="http://www.gebeurtenissen.nl"
+                  xmlns:weer="http://www.weerkunde.nl"
+				  xmlns:iso="https://www.iso.org/obp/iso80000">
+	...
+	<weer:vorst iso:eenheid="Ceslsius">-10</weer:vorst>
+	...
+</gbrt:gebeurtenis>	
+```
+In dit voorbeeld hebben we alleen de van belang zijnde elementen getoond. Het is dus geen Well-formed laat staan valide XML.
+
+### Oefening 3
+
+[Naar de oefening 3](../oefening-3).

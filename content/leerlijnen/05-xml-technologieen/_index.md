@@ -6,7 +6,7 @@ leerlijn_nummer: 5
 icon: "📄"
 beschrijving: "Begrip van XSD-schema's, XML, schemavalidatie en gerelateerde technologieën, toepasbaar in de context van StUF."
 aantal_onderdelen: 7
-aantal_oefeningen: 2
+aantal_oefeningen: 3
 ---
 
 <div class="back-link-wrapper">

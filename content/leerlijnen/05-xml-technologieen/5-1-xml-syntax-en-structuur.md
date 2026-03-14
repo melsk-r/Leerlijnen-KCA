@@ -18,7 +18,7 @@ Stel je voor: twee gemeentelijke systemen moeten gegevens over een inwoner uitwi
 
 Je zou de gegevens in platte tekst kunnen sturen, bijvoorbeeld:
 
-```
+```text
 Jan de Vries, Kerkstraat 12, 3511AB, Utrecht
 ```
 
@@ -83,7 +83,7 @@ XML is niet uit het niets ontstaan, maar is de jongste telg in een familie van m
 | **1992** | **HTML** | HyperText Markup Language — vereenvoudiging van SGML voor het World Wide Web |
 | **1997** | **XML** | eXtensible Markup Language — vereenvoudiging van SGML, specifiek gericht op *gegevensuitwisseling* |
 
-```
+```text
 GML (1969) ──→ SGML (1978) ──→ HTML (1992) ──→ WWW
                             └──→ XML  (1997) ──→ Gegevensuitwisseling
 ```

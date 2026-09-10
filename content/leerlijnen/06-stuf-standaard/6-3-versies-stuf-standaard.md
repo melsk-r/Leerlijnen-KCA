@@ -10,7 +10,7 @@ leerdoel: "Begrip hebben van de twee verschillende versies van de StUF standaard
 
 ## 6.3 Versies van de StUF-standaard
 
-Kent de twee door VNG Realisatie ondersteunde versies van de StUF-standaard en hun onderlinge verschillen.
+Er zijn op dit moment 2 door VNG Realisatie ondersteunde StUF versies, 2.04 en 3.01. Beide versies worden nog gebruikt maar versie 3.01 is de meest gebruikte versie en ook de versie waarvoor de meeste sectormodellen en koppelvlakken zijn ontwikkeld. Eigenlijk is er voor versie 2.04 maar één sectormodel (StUF-BG 2.04) en geen enkel koppelvlak ontwikkelt. In de voorgaande onderdelen 6.1 (Opbouw en werking van StUF) en 6.2 (StUF folder en XML-Schema structuur) hebben we alleen gefocust op versie 3.01. In dit onderdeel gaan we heel kort in versie 2.04 en op de wijze waarop beide versies met elkaar geïntegreerd kunnen worden. 
 
 ### Versie 2.04
 

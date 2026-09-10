@@ -52,7 +52,7 @@ Vrije berichten kunnen gebaseerd zijn op berichten in de sectormodellen en dus o
 Vrije berichten die gebaseerd zijn op het RSGB, RGBZ of ImZTC kunnen zo nodig uitgebreid zijn met elementen die niet in de informatiemodellen voorkomen maar uit informatiemodellen die daar een extensie op zijn.
 Een goed voorbeeld daarvan is het bericht 'uitkomstMeldingGeneriekDi01' uit StUF-Jeugdzorg:
 
-<img width="400" alt="Di01-bericht-op-basis-van ZAK" src="/Leerlijnen-KCA/images/Di01-bericht-op-basis-van-ZAK.jpg" />
+<img width="1200" alt="Di01-bericht-op-basis-van ZAK" src="/Leerlijnen-KCA/images/Di01-bericht-op-basis-van-ZAK.jpg" />
 
 **Resources:**
 - [StUF Sectormodellen en koppelvlakken](https://standaarden.vng.nl/StUF-koppelvlakken-en-sectormodellen)

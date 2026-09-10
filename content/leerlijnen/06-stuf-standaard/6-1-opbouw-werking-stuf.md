@@ -10,8 +10,6 @@ leerdoel: "Begrip opbouwen van de generieke onderlaag (StUF 03.01), horizontale 
 
 ## 6.1 Opbouw en werking van StUF
 
-Kan de opbouw en werking van de StUF-standaard (Standaard Uitwisseling Formaat) uitleggen.
-
 ### Wat is StUF?
 
 **StUF** (Standaard Uitwisseling Formaat) is een Nederlandse standaard voor berichtgebaseerde gegevensuitwisseling tussen informatiesystemen in de overheid. StUF biedt een gestandaardiseerde manier voor systemen om gestructureerd informatie uit te wisselen, onafhankelijk van de onderliggende technologie.

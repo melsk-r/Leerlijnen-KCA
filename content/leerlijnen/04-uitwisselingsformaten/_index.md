@@ -17,3 +17,5 @@ aantal_onderdelen: 6
   <h1>Uitwisselingsformaten en -protocollen</h1>
   <p class="hoofdleerdoel">De kandidaat heeft ervaring met gangbare uitwisselingsformaten en -protocollen.</p>
 </div>
+
+Deze module bevat alleen nog AI gegenereerde content en behoeft nog een grondige review! Sommige onderdelen worden ook ergens anders, en grondiger, behandelt. Desondanks zou het kunnen het zijn dat aan onderwerpen waar hier wel aandacht wordt besteedt daar nog geen aandacht wordt besteed.

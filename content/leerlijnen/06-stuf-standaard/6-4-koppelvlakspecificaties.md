@@ -35,7 +35,7 @@ In een functionele en technische specificatie kan je o.a. de volgende onderdelen
 * Specificatie per bericht/service
 * Bedrijfsregels
 * Foutafhandeling
-* informatiemodel
+* Informatiemodel
 * VerStUFfing
 * Beveiliging en autorisatie
 * Protocolbinding

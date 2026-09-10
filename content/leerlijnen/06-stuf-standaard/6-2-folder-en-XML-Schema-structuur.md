@@ -10,6 +10,8 @@ leerdoel: "De folderstructuur van de StUF standaarden kennen en weten hoe de ver
 
 ## 6.2 StUF folder en XML-Schema structuur
 
+In deze paragraaf gaan we in op de folder en XML-Schema structuur van StUf 3.01 en de bijbehorende sectormodellen. Op versie 2.04 van de standaard komen we in een ander onderdeel kort terug.
+
 Voor het kunnen browsen door de StUF folderstructuur en het inhoudelijk kunnen onderzoeken van de XML-Schema's is het van belang om [het zip bestand met de laatste complete patch van StUF 3.01](https://vng-realisatie.github.io/StUF-onderlaag/documenten/20260227_patch34.zip) op te halen. Een andere optie is het plaatsen van de StUFmaster in je eigen folder structuur. De StUFmaster is een beheerinstrument van VNG Realisatie waarmee we versiebeheer toepassen of alle StUF (gerelateerde) documenten en is alleen voor beheerders van StUF en bij VNG Realisatie in beheer zijnde sectormodellen en koppelvlakken beschikbaar. 
 
 > **Let op!** De in dit onderdeel behandelde en getoonde folderstructuren zijn de structuren die als zodanig zijn vastgelegd in de StUFmaster. Bij het publiceren van de zip files voor (patches op) de specifieke StUF standaarden kan het zijn dat niet alle folders terug komen. De zip file voor StUF-BG bevat bijvoorbeeld niet de folders voor StUF-ZKN (zkn0310) en StUF-ZTC (ztc0310). Als de folders echter wel zijn opgenomen dan zijn ze opgenomen in de structuur die in de StUFmaster is vastgelegd.

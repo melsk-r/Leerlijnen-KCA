@@ -5,16 +5,14 @@ weight: 604
 leerlijn: 6
 paragraaf: "6.4"
 parent: "StUF-standaard"
-leerdoel: "De onderdelen van een StUF koppelvlak standaard kennen met alle documenten die daarbij hoort."
+leerdoel: "De onderdelen van StUF koppelvlak standaarden kunnen lezen en beheren met alle documenten die daarbij hoort."
 ---
 
 ## 6.4 Koppelvlakspecificaties
 
-Kan StUF-koppelvlakspecificaties lezen en beheren.
-
 ### Wat zijn StUF koppelvlakspecificaties?
 
-Een **StUF koppelvlakspecificatie** is een set van documenten die precies beschrijft hoe twee systemen met elkaar kunnen communiceren via StUF-berichten. Het definieert de berichten, scenario's en business-regels die nodig zijn voor succesvolle gegevensuitwisseling. een StUF koppelvlak specificeert hoe de gegevensuitwisseling tussen applicaties en voorzieningen eruit moet zien. Het legt concrete afspraken vast waarmee specifieke gegevens kunnen worden gecommuniceerd. Afspraken over specifieke berichten die tussen bepaalde referentiecomponenten uitgewisseld moeten en/of kunnen worden, afspraken over aanscherping van de berichten uit een StUF sectormodel en afspraken over de wijze waarop die berichten verstuurd moeten worden. In een StUF koppelvlakspecificatie is ook altijd aangegeven op welke referentiecomponenten de specificatie van toepassing is. Een StUF sectormodel is wat dat betreft minder restrictief en laat meer ruimte open voor eigen interpretatie.
+Een **StUF koppelvlakspecificatie** is een set van documenten die zo precies als mogelijk beschrijft hoe twee systemen met elkaar kunnen communiceren via StUF-berichten. Het definieert de berichten, scenario's en aanvullenderegels die nodig zijn voor succesvolle gegevensuitwisseling. Een StUF koppelvlak specificeert hoe de gegevensuitwisseling tussen applicaties en voorzieningen eruit moet zien. Het legt concrete afspraken vast waarmee specifieke gegevens kunnen worden gecommuniceerd. Afspraken over specifieke berichten die tussen bepaalde referentiecomponenten uitgewisseld moeten en/of kunnen worden, afspraken over aanscherping van de berichten uit een StUF sectormodel en afspraken over de wijze waarop die berichten verstuurd moeten worden. In een StUF koppelvlakspecificatie is ook altijd aangegeven op welke referentiecomponenten de specificatie van toepassing is. Een StUF sectormodel is wat dat betreft minder restrictief en laat meer ruimte open voor eigen interpretatie.
 
 Een aantal bekende StUF koppelvlakken zijn:
 * <a href="https://vng-realisatie.github.io/Zaak-en-Documentservices/" target="_blank">Zaak- en Documentservices</a>
@@ -35,6 +33,7 @@ In een functionele en technische specificatie kan je o.a. de volgende onderdelen
 * Functionaliteit op hoofdlijnen
 * Architectuur
 * Specificatie per bericht/service
+* Aanvullende regels
 * Foutafhandeling
 * informatiemodel
 * VerStUFfing
@@ -48,9 +47,12 @@ Het beheren van StUF-koppelvlakspecificaties vereist grondige kennis van zowel d
 
 ### Vrij berichttype
 
-Een StUF koppelvlakspecicatie is DE plaats waar je een StUF vrij bericht tegen kunt komen.
+Een StUF koppelvlakspecicatie is DE plaats waar je een StUF vrij bericht tegen kunt komen. Met een vrij bericht kun je nl. relatief eenvoudig aan de specifieke requirements van een koppelvlak tegemoet komen.
+Vrije berichten kunnen gebaseerd zijn op berichten in de sectormodellen en dus op een entiteittype uit het RSGB, RGBZ of ImZTC maar kunnen ook een geheel ander informatiemodel als basis hebben.
+Vrije berichten die gebaseerd zijn op het RSGB, RGBZ of ImZTC kunnen zo nodig uitgebreid zijn met elementen die niet in de informatiemodellen voorkomen maar uit informatiemodellen die daar een extensie op zijn.
+Een goed voorbeeld daarvan is het bericht 'uitkomstMeldingGeneriekDi01' uit StUF-Jeugdzorg:
 
-!!!!!!!!!!!!!!!!!!!!!!Aanvullen!!!!!!!!!!!!!!!!!!!!!
+<img width="400" alt="Di01-bericht-op-basis-van ZAK" src="/Leerlijnen-KCA/images/Di01-bericht-op-basis-van-ZAK.jpg" />
 
 **Resources:**
 - [StUF Sectormodellen en koppelvlakken](https://standaarden.vng.nl/StUF-koppelvlakken-en-sectormodellen)
